@@ -5,3 +5,4 @@ RENCANA KONTENKU
   * CSS
 - Video Terkait git
 - Vlog(kegiatan harian)
+- UI/UX Design
