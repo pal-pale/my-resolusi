@@ -2,7 +2,10 @@ RENCANA KONTENKU
 
 - Video pembalajaran
   * HTML
+   ^ Link
+   ^ Image
   * CSS
 - Video Terkait git
 - Vlog(kegiatan harian)
 - UI/UX Design
+  * Design Proccess
